@@ -1,3 +1,7 @@
+body {
+    background-color: #A9D0F5;
+    font-family: Arial, Helvetica, sans-serif;
+}
 #wrapper {
     width:1000px;
     margin: 70px 0 0 110px;
